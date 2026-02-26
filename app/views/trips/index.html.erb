@@ -1,0 +1,20 @@
+<p style="color: green"><%= notice %></p>
+
+<% content_for :title, "Trips" %>
+
+<h1>Trips</h1>
+<p>
+ici ecris seulement le nom de ta destination dans la premiere case
+, et ce que tu penses de ou tu as bougé, ou ce que tu aimerais changer dans la base de données si tu ne sais pas quoi ajouter
+</p>
+
+<div id="trips">
+  <% @trips.each do |trip| %>
+    <%= render trip %>
+    <p>
+      <%= link_to "Show this trip", trip %>
+    </p>
+  <% end %>
+</div>
+
+<%= link_to "New trip", new_trip_path %>
