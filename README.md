@@ -1,6 +1,14 @@
 # commit-rails
-migrate or travel, commit or post, search post, and save mot search ,  and not mot search, 
+- migrate or travel, commit or post, search post, and save mot search ,  and not mot search, 
 -  my way, in oaa country
 - program like you travel
 - post social media ,
 - more and more, 
+- tu choisis de faire une ou plusieurs rencontre comme un "commit" d'un programme( de git) comme si ca a un timestamp ou /et de faire simplement des mise à jour(d'un code).
+- tu choisi de voyager (migrate comme un avion ou oiseau) de faire une base de donnée.
+- il y a des vidéos de musique et un réseau de musiciens
+- il y a ds rumeurs sur tes rencontres et les choses que tu fais
+- tu as un job
+- il y a une pression d'un qg qui a le nom du bâtiment ou bureau ou il y a le gouvernement d'un pays étranger ou pas.
+- un "commit" peut être une discussion, une relation,
+- tu échappes pas aux rumeurs mais tu dois faire de ton mieux malgré la pression 
