@@ -10,5 +10,5 @@
 - il y a ds rumeurs sur tes rencontres et les choses que tu fais
 - tu as un job
 - il y a une pression d'un qg qui a le nom du bâtiment ou bureau ou il y a le gouvernement d'un pays étranger ou pas.
-- un "commit" peut être une discussion, une relation,
+- un "commit" peut être une discussion, une relation que tu affiches ,
 - tu échappes pas aux rumeurs mais tu dois faire de ton mieux malgré la pression 
