@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block montitre %}
+debut de mes mots: bienvneue dans migrate, travel & commit to relationships /committed dating
+{% endblock %}
+{% block content %}
+<h1># commit-rails</h1>
+{% for x in users | reverse %}
+ <li>{{ x["first_name"]  }}</li>
+
+{% endfor %} 
+fin de mes mots : choisis une destination de voyage, des choses à coder, et des relations que tu veux avoir,
+ajoute des rumeurs qui peuvent circuler
+{% endblock %}
+{% block liens %}
+<a href="/">welcome</a>
+{% endblock %}
+<a href="/add_one_user"> add one user</a><a href="/add_one_commit_dating"> add one commit_dating</a><a href="/add_one_country"> add one country</a><a href="/add_one_programminglanguage"> add one programminglanguage</a><a href="/add_one_job"> add one job</a><a href="/add_one_commit_coding"> add one commit_coding</a><a href="/add_one_migration_trip"> add one migration_trip</a><a href="/add_one_migration_database"> add one migration_database</a><a href="/add_one_artist"> add one artist</a><a href="/add_one_musicvideo"> add one musicvideo</a><a href="/add_one_artisthasmusicvideo"> add one artisthasmusicvideo</a><a href="/add_one_gossip"> add one gossip</a><a href="/add_one_artisthasgossip"> add one artisthasgossip</a>
