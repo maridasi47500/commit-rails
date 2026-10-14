@@ -1,5 +1,15 @@
 # commit-rails
-- migrate or travel, commit or post, search post, and save mot search ,  and not mot search, 
+- "commmt to it" veut dire tu vas faire tout ce que tu dis
+- "commit" tu vas aussi utiliser git/github
+- "migrate" tu vas créer une base de données / comme ça veut dire tu vas voyager prendre l'avion
+- autres choses que tu peux faire : répandre desrumeurs sur les reseaux sociaux
+- ton information sur les réseaux peut être tracké mondialement (global information tracker) et avoir assez d'influence sur les reseaux
+- ce que tu peut "faire" est "commit" aussi dansle sens "commit to a relationship" (commit to a new relationship)
+
+- 
+
+# autre 
+- migrate or travel, commit or post, search post, and save mot search ,  and not mot search, (chercher xi tu cherche un mot et qu'un mot n'est pas (comme not:"un mot"))
 -  my way, in oaa country
 - program like you travel
 - post social media ,
@@ -9,6 +19,5 @@
 - il y a des vidéos de musique et un réseau de musiciens
 - il y a ds rumeurs sur tes rencontres et les choses que tu fais
 - tu as un job
-- il y a une pression d'un qg qui a le nom du bâtiment ou bureau ou il y a le gouvernement d'un pays étranger ou pas.
 - un "commit" peut être une discussion, une relation que tu affiches ,
 - tu échappes pas aux rumeurs mais tu dois faire de ton mieux malgré la pression 
