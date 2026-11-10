@@ -1,5 +1,7 @@
 # commit-rails
-- "commmt to it" veut dire tu vas faire tout ce que tu dis
+- chercher des offres d'emploi de excel, indeed, hello work, 
+- 
+"commmt to it" veut dire tu vas faire tout ce que tu dis
 - "commit" tu vas aussi utiliser git/github
 - "migrate" tu vas créer une base de données / comme ça veut dire tu vas voyager prendre l'avion
 - autres choses que tu peux faire : répandre desrumeurs sur les reseaux sociaux
